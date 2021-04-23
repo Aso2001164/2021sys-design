@@ -1,4 +1,4 @@
-@startuml
+```flow
 start
 体力=10;
 
@@ -9,4 +9,4 @@ else
 endif
 
 end
-@enduml
+```
